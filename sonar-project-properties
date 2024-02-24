@@ -1,0 +1,9 @@
+sonar.verbose=true
+sonar.organization=jhansi01-key
+sonar.projectKey=jhansi01-key_jenkins
+sonar.projectName=jenkins
+sonar.language=java
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.java.binaries=target/classes
+sonar.coverage.jacoco.xmlReportPaths=target/site/jacoco/jacoco.xml
